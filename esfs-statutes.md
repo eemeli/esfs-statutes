@@ -7,13 +7,19 @@
 
 3.  Its registered office shall be for the time being at Editrice Nord, Via Rubens 25, 20148 Milano, Italy. It may be transferred elsewhere by a decision of the European Committee.
 
-4.  To join the society it shall suffice to subscribe to this Constitution and to inform the National Delegate who will notify the ESFS Secretary. For special services rendered to European SF the Committee may award the title of ESFS Honorary Member.
+4.  To join the society it shall suffice to subscribe to this Constitution and to inform the National Delegate who will notify the ESFS Secretary, or to notify the ESFS Secretary directly. For special services rendered to European SF the Committee may award the title of ESFS Honorary Member.
 
 5.  Cessation of membership may only be by resignation. No member of the Society may be excluded on racial, political or religious grounds.
 
 6.  The Society resources shall include: - dues - grants and gifts received.
 
-7.  The Society shall organize a European Science Fiction Convention (Eurocon) at least every two years. On the proposal of a National Delegate, or any reliable individual or organization, European Science Fiction Conferences (Euroconferences) may be organized, though not in the same period as the Eurocon.
+7.  The Society shall organize a European Science Fiction Convention (Eurocon) within the territory of a European country (see appendix 1) at least every two years. On the proposal of a National Delegate, or any reliable individual or organization, European Science Fiction Conferences (Euroconferences) may be organized, though not in the same period as the Eurocon. Euroconference votes may take place by email.
+
+    The vote for the Eurocon shall comprise delegate votes, two for each country, and ESFS member votes on a one person-one vote basis. The vote shall take place by secret ballot, and the voting papers for delegates and members shall be differently coloured. Votes shall be counted in aggregate, but the winner shall attain at least a threshold of 35% of the votes cast by both members and delegates. In the event of the candidate with the most votes failing to reach this threshold, but coming within 5% of it, another vote may be held at least 30 minutes later between the two highest contenders. If a second vote fails to reach this threshold, or a second vote does not take place, the decision must be postponed to the next Eurocon, or to an extraordinary General Meeting.
+
+    Eurocon campaign materials may include leaflets, posters, fanzines, badges, stickers, minor decorative display items and other informative material on the prospective convention and the host country, but a 'no treating' rule must be observed. In effect this means no bid parties.
+
+    Any bid committee breaking this rule may have its candidature disqualified by a secret ballot of the delegates at the General Meeting. A disqualification vote may be proposed by any one delegate, and disqualification shall occur if 35% or more of the delegates approve it.
 
 8.  The supreme body of the Society is the General Meeting, convened during the Eurocon. At the request of one third of the Society membership or of two thirds of its committee members, the Chair shall convene the extraordinary General Meeting.
 
@@ -24,7 +30,7 @@
     c) to decide the places and dates of the Eurocons and Euroconferences;  
     d) to discuss and decide on other matters related to the Society's activity.
 
-    Observers may also attend and speak, but not vote.
+    Observers may attend and speak, they may also take part in the Eurocon and Euroconference votes, and in general advisory votes.
 
 10. The European Committee is the leading body of the ESFS and assembles at the Eurocons and Euroconferences. At the request of one third of its members it shall be convened by the chairman in an Extraordinary Meeting.
 
@@ -38,7 +44,7 @@
     - Honorary Members of ESFS 
     - National Delegates for each country.
 
-    The term of office for all the elected Officers (Chair, Vice-Chair, Secretary, Treasurer) shall be two years, after which they may be re-elected for subsequent terms. Former Committee Officers and the Honorary Members remain on the Committee for their lifetime, having voice but no vote. National Delegates are elected according to local customs. If a position falls vacant, the Committee may nominate a provisional substitute until the next General Meeting.
+    The term of office for all the elected Officers (Chair, Vice-Chair, Secretary, Treasurer) shall be two years, after which they may be re-elected for subsequent terms. Former Committee Officers and the Honorary Members remain on the Committee for their lifetime, having voice but no vote. National Delegates are elected according to local customs and should be normally resident in the country they represent. If a position falls vacant, the Committee may nominate a provisional substitute until the next General Meeting.
 
 12. The Committee has the following prerogatives:
 
@@ -65,6 +71,10 @@
 
 15. The official languages of the ESFS are English, French, German and Russian.
 
+### Appendix 1
+
+United Kingdom (inc. England, Scotland, Wales, Northern Ireland), Eire, Iceland, Norway, Portugal, Spain, Sweden, Denmark (Greenland), Finland, France, Belgium, Netherlands, Luxembourg, Andorra, Switzerland, Austria, Italy, San Marino, Vatican City, Liechtenstein, Germany (Eastern and Western), Poland, Czech Republic, Slovakia, Hungary, Romania, Bulgaria, Slovenia, Croatia, Yugoslavia (inc. Serbia and Montenegro), Bosnia, Macedonia, Moldova, Russia, Byelorussia, Ukraine, Lithuania, Latvia, Estonia, Turkey, Greece, Cyprus, Malta, Albania, Monaco.
+
 
 ## Rules of the European Science Fiction Awards
 
@@ -72,11 +82,11 @@ The European Science Fiction Society hands, at the European Conventions, awards 
 
 ### I. Hall of Fame:
 
-1. Best Author 
-2. Best Publisher 
+1. Best Author
+2. Best Publisher
 3. Best Artist
-4. Best Promoter of Science Fiction 
-5. Best Magazine. 
+4. Best Promoter of Science Fiction
+5. Best Magazine
 6. Best Translator
 
 These Awards are granted just once by the European Committee by secret ballot from the nominations submitted by the National Delegates. The nominations must arrive to the Chair at least two months before the opening of the Eurocon. Nominations shall normally be made for a country, by delegates of that country. When out-of-country nominations are made, they shall be subject to a veto by delegates from the country concerned. The Awards are plaques or other symbolic objects and are handed by the Chair or another Committee Officer appointed by the Chair.
