@@ -14,7 +14,7 @@ OF THE EUROPEAN SCIENCE FICTION SOCIETY
     (c) to propose the cognition of European SF in the rest of the world.
 
 3.  Its registered office  
-    (a) shall be for the time being at Editrice Nord, Via Rubens 25, 20148 Milano, Italy and  
+    (a) shall be for the time being at ESFS 64 Richborne Terrace London SW8 1AX England (esfs@esfs.info) and  
     (b) may be transferred elsewhere by a decision of the European Committee.
 
 4.  (a) To join the society it shall suffice to subscribe to this Constitution and to inform the National Delegate who will notify the ESFS Secretary, or to notify the ESFS Secretary directly.  
@@ -75,8 +75,6 @@ OF THE EUROPEAN SCIENCE FICTION SOCIETY
     c) to arrange for the places and the dates of the Eurocons and Euroconferences,  
     d) to determine the utilisation of the Society's resources,  
     e) to debate and decide on all other issues related to the Society's activity.
-
-    The term of office for all the elected Officers (Chair, Vice-Chair, Secretary, Treasurer) shall be two years, after which they may be re-elected for subsequent terms. Former Committee Officers and the Honorary Members remain on the Committee for their lifetime, having voice but no vote. National Delegates are elected according to local customs and should be normally resident in the country they represent. If a position falls vacant, the Committee may nominate a provisional substitute until the next General Meeting.
 
 13. 1\. The Officers and members of the Committee shall have the following competence:
 
