@@ -148,6 +148,7 @@ The European Science Fiction Society hands, at the European Conventions, awards 
 1. An artist, author of one of more works
 2. An author of a performance (film, play, ballet, etc.)
 3. A fanzine.
+4. Website
 
 (i) These Awards are granted by vote of all European participants in the European Conventions, through the assessment of the works exhibited or presented in some other way (slide-shows, documentaries) of the performances and of the fanzines exhibited.  
 (ii) The works, the performances and the fanzines must have been presented or produced between the current and previous Eurocon.  
