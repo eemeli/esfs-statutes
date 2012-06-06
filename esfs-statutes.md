@@ -20,7 +20,7 @@ OF THE EUROPEAN SCIENCE FICTION SOCIETY
 4.  (a) To join the society it shall suffice to subscribe to this Constitution and to inform the National Delegate who will notify the ESFS Secretary, or to notify the ESFS Secretary directly.  
     (b) For special services rendered to European SF the Committee may award the title of ESFS Honorary Member.
 
-5.  (a) Cessation of membership may only be by resignation.  
+5.  (a) Cessation of membership may only be by resignation in writing to the ESFS Secretary.  
     (b) No member of the Society may be excluded on racial, political or religious grounds.
 
 6.  The Society resources shall include: - dues - grants and gifts received.
@@ -40,14 +40,14 @@ OF THE EUROPEAN SCIENCE FICTION SOCIETY
 8.  (a) The supreme body of the Society is the General Meeting, convened during the Eurocon.  
     (b) At the request of one third of the Society membership or of two thirds of its committee members, the Chair shall convene the extraordinary General Meeting.
 
-9.  A- The General Meeting is attended by all ESFS members present at the Eurocon (but up to three votes are allowed for each country) and has the following prerogatives:
+9.  A- The General Meeting is attended by all ESFS members present at the Eurocon (but up to two votes are allowed for each country) and has the following prerogatives:
 
     a) to assess the activity of the Committee, on the basis of a report submitted by the Chair or by the elected Vice-Chair;  
     b) to elect the committee Officers;  
     c) to decide the places and dates of the Eurocons and Euroconferences;  
     d) to discuss and decide on other matters related to the Society's activity.
 
-    B- Observers may attend and speak, they may also take part in the Eurocon and Euroconference votes, and in general advisory votes.
+    B- Observers (ie persons not from countries in Appendix 1) may attend and speak but not vote.
 
 10. (a) The European Committee is the leading body of the ESFS and assembles at the Eurocons and Euroconferences.  
     (b) At the request of one third of its members it shall be convened by the chairman in an Extraordinary Meeting.
@@ -114,7 +114,7 @@ OF THE EUROPEAN SCIENCE FICTION SOCIETY
 
 14. (a) (i) In all leading bodies of the ESFS decisions (including any Statute amendment, addition or deletion-hereinafter "Statute Change") shall be taken by a simple majority vote.  
         (ii) Postal and proxy voting is allowed only regarding issues announced in advance, by means of a definite written and signed statement.  
-    (b) Any Statute Change passed at any one Eurocon General Meeting does not take immediate effect but must be ratified (or not ratified) or amended at the Business Meeting at the next immediate Eurocon following. If ratified as it stands, it then takes effect at that 2nd Eurocon. If not ratified at that 2nd Eurocon, it has never taken effect anyway and fails. If amended at that 2nd Eurocon, any such amendment may only be such that it cannot enlarge/enhance the original, previously passed Statute Change.  
+    (b) Any Statute Change passed at any one Eurocon General Meeting does not take immediate effect but must be ratified (or not ratified) or amended at the General Meeting at the next immediate Eurocon following. If ratified as it stands, it then takes effect at that 2nd Eurocon. If not ratified at that 2nd Eurocon, it has never taken effect anyway and fails. If amended at that 2nd Eurocon, any such amendment may only be such that it cannot enlarge/enhance the original, previously passed Statute Change.  
     (d) Should any Statute Change be passed at any one Eurocon and its nature/effect be such that it must come into force immediately (and ratification at the next Eurocon cannot wait), it may --after initial passing by simple majority vote-- be voted on a second time but for such immediate effect, it needs on that 2nd vote, a 75% majority. If such 75% majority fails, it proceeds to ratification in the normal way at the next Eurocon.
 
 15. The official languages of the ESFS are English, French, German and Russian.
