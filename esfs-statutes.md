@@ -36,7 +36,7 @@ The Society resources shall include: -dues -grants and gifts received.
 The Society shall organize a European Science Fiction Convention (Eurocon) within the territory of a European country (see Appendix 1) at least every two years.
 
 #### Voting
-* The vote for the Eurocon shall comprise delegate votes, two for each country, and ESFS member votes on a one person-one vote basis.
+* The vote for the Eurocon shall comprise delegate votes, two for each country, and ESFS member votes on a one person-one vote basis. A person may not cast both a delegate vote and an ESFS member vote.
 * The vote shall take place by secret ballot, and the voting papers for delegates and members shall be differently coloured.
 * Votes shall be counted in aggregate, but the winner shall attain at least a threshold of 35% of the votes cast by both members and delegates.
 * In the event of the candidate with the most votes failing to reach this threshold, but coming within 5% of it, another vote may be held at least 30 minutes later between the two highest contenders. If a second vote fails to reach this threshold, or a second vote does not take place, the decision must be postponed to the next Eurocon, or to an extraordinary General Meeting.
