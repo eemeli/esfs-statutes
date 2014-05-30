@@ -193,11 +193,12 @@ Grand Master is for outstanding figures in European Science Fiction. They should
 Suggestions of names should be sent to the ESFS Chair and Secretary at least one month before the convention. The decision on presentation is at the discretion of the ESFS Board and the convention Organizing committee, with the approval of the General meeting.
 
 ### III. Spirit of Dedication
-1. An artist, author of one of more works
-2. An author of a performance (film, play, ballet, etc.)
-3. A fanzine
-4. SF website
-5. Children's SF "Best creator of children's SF or fantasy books (author and/or artist)"
+1. An artist, Creator of one of more works
+2. An Author, Creator of one of more works
+3. An author of a performance (film, play, ballet, etc.)
+4. A fanzine
+5. SF website
+6. Children's SF "Best creator of children's SF or fantasy books (author and/or artist)"
 
 These Awards are granted by vote of all European participants in the European Conventions, through the assessment of the works exhibited or presented in some other way (slide-shows, documentaries) of the performances and of the fanzines exhibited. The works, the performances and the fanzines must have been presented or produced between the current and previous Eurocon.
 
