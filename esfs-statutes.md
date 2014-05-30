@@ -33,7 +33,7 @@ Cessation of membership may only be by resignation, informing the Chairman and S
 The Society resources shall include: -dues -grants and gifts received.
 
 ### 7. Eurocons
-The Society shall organize a European Science Fiction Convention (Eurocon) within the territory of a European country (see Appendix 1) at least every two years.
+The Society shall organize a European Science Fiction Convention (Eurocon) within the territory of a European country (defined as an internationally recognised sovereign state with territory in Europe, as defined by the United Nations geoscheme) at least every two years.
 
 #### Voting
 * The vote for the Eurocon shall comprise delegate votes, two for each country, and ESFS member votes on a one person-one vote basis.
@@ -51,7 +51,7 @@ On the proposal of a National Delegate, or any reliable individual or organizati
 ### 9. General Meeting
 The supreme body of the Society is the General Meeting, convened during the Eurocon.
 
-The General Meeting is attended by all ESFS members present at the Eurocon (but up to two votes are allowed for each country) and has the following prerogatives:
+The General Meeting is attended by all ESFS members present at the Eurocon (but up to two votes are allowed for each European country, as defined above) and has the following prerogatives:
 
 a) to assess the activity of the Committee, on the basis of a report submitted by the Chair or by the elected Vice-Chair;  
 b) to elect the committee Officers;  
@@ -148,7 +148,7 @@ The Officers and members of the Committee shall have the following competence:
 
 At each meeting of the Committee, the Treasurer presents the financial situation of the Society; Between the meetings they shall do the same at the request of the Chair or the Elected Vice-Chair.
 
-The National Delegates (two for each country) as Per Appendix 1 represent the interests of the professionals and fans of their countries. They:
+The National Delegates (two for each European country, as defined above) represent the interests of the professionals and fans of their countries. They:
 * Periodically convey to the Chair and the Secretary information of the most important local events (conventions, awards, books, magazines, fanzines) and on the admission of new members, etc.,
 * Support the Organizing Committees of the Eurocons and Euroconferences when these events occur in their countries.
 
@@ -164,9 +164,6 @@ The official languages of the ESFS are English, French, German and Russian.
 
 ### 16. The Emblem
 The logo/emblem of the ESFS is a black stylised map of Europe outlined in white, above two shaking hands. writing may or may not surround the emblem. This logo/emblem may be used as the center piece on a yellow flag.
-
-### Appendix 1 - European Countries
-Albania, Andorra, Armenia, Austria, Azerbaijan, Belarus, Belgium, Bosnia-Herzegovina, Bulgaria, Croatia, Cyprus, Czech Republic, Denmark (including Greenland and the Faroes), Estonia, Finland (including Aland), France, Georgia, Germany, Greece, Hungary, Iceland, Ireland, Italy, Latvia, Liechtenstein, Lithuania, Luxembourg, Macedonia, Malta, Moldova, Monaco, Montenegro, Netherlands, Norway, Poland, Portugal (including Madeira and the Azores), Romania, Russia, San Marino, Serbia, Slovakia, Slovenia, Spain (including the Canaries), Sweden, Switzerland, Turkey, Ukraine, United Kingdom (i.e. England, Scotland, Wales, Northern Ireland and, for the purposes of this Constitution, Jersey, Guernsey and its dependencies, Isle of Man, Gibraltar), Vatican City.
 
 
 ## Rules of the European Science Fiction Awards
