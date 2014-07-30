@@ -8,7 +8,7 @@ Comprising:
 
 ## The Statutes of the European Science Fiction Society
 
-### 1. The Society
+1. **The Society**
   1. The European Science Fiction Society (ESFS, hereinafter referred to as the Society) was founded in 1972, at the first European Science Fiction Convention in Trieste.
   2. The official language of the Society is English.
   3. The goals of the Society are:
@@ -17,12 +17,12 @@ Comprising:
     3. to promote the recognition of European SF in the rest of the world.
   4. To reach these goals, the Society administers the organisation of Eurocon, an annual SF convention, and chooses the recipients of the European Science Fiction Awards.
 
-### 2. Society Membership
+2. **Society Membership**
   1. The membership of the Society is defined as the inclusion of the members of current and future Eurocons, the Board, and the Delegates.
   2. No member of the Society may be excluded on racial, political or religious grounds.
   3. For special services rendered to European SF the General Meeting may award the title of ESFS Honorary Member.
 
-### X. Eurocons
+3. **Eurocons**
   1. The Society shall administer the selection of the location and organising committee for the annual European Science Fiction Convention (Eurocon).
   2. Eurocons shall be held within Europe, as defined by the United Nations geoscheme.
   3. Eurocon selection:
@@ -34,7 +34,7 @@ Comprising:
     6. In case of a tie, or a write-in candidate winning the vote, the decision on the Eurocon selection is left to the General Meeting, which should take into account the results of the vote in its considerations.
   4. Each selected Eurocon shall be responsible for the financial costs of maintaining the Society's online presence, as well as the costs of administering the Eurocon selection, European Science Fiction Awards, and General Meeting hosted by said Eurocon.
 
-### X. Delegates
+4. **Delegates**
   1. The Delegates are the Society's representatives in their respective countries and fandoms.
   2. National Delegates represent the interests of the fans and professionals of a conutry, with each country granted at most two such Delegates.
   3. International fannish groups with active members from at least three European countries may also issue a single Delegate to represent them within the Society.
@@ -47,7 +47,7 @@ Comprising:
   6. Changes to a country's or a fandom's Delegates need to be conveyed to the Society's Board at least six weeks in advance of each Eurocon.
   7. In cases where a Delegate's credentials are disputed, decisions on their acceptance are made by the body of Delegates as a whole, excluding the disputed Delegate or Delegates.
 
-### X. The Board
+5. **The Board**
   1. The Board coordinates the work of the Society and maintains contact between Eurocons.
   2. The members of the Board have the following tasks and prerogatives:
     1. To ensure the progress of the Society between Eurocons;
@@ -61,7 +61,7 @@ Comprising:
   4. If more than one elected Board position falls vacant between General Meetings, the Delegates may elect new members to serve on the Board until the following General Meeting.
   5. After each General Meeting, members of the Board may decide how to distribute the Board's tasks among themselves.
 
-### X. General Meeting
+6. **General Meeting**
   1. At each Eurocon, the Society shall organise a General Meeting of its Board and Delegates, which must be open to all attending members of the Society.
   2. The General Meeting must have at least one session scheduled after the close of the Eurocon selection vote.
   3. The General Meeting has the following prerogatives:
