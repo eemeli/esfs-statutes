@@ -21,10 +21,10 @@ c) to propose the cognition of European SF in the rest of the world.
 ### 3. Registered Office
 Its registered office shall be for the time being at:  
 ESFS, 64 Richborne Terrace, London, SW8 1AX, United Kingdom (contact_esfs@esfs.info).  
-It may be transferred elsewhere by a decision of the European Committee.
+It may be transferred elsewhere by a decision of the Board.
 
 ### 4. Joining the Society
-To join the society it shall suffice to subscribe to this Constitution and to inform the National Delegate who will notify the ESFS Secretary, or to notify the ESFS Secretary directly. For special services rendered to European SF the Committee may award the title of ESFS Honorary Member.
+To join the society it shall suffice to subscribe to this Constitution and to inform the National Delegate who will notify the ESFS Secretary, or to notify the ESFS Secretary directly. For special services rendered to European SF the General Meeting may award the title of ESFS Honorary Member.
 
 ### 5. Leaving the Society
 Cessation of membership may only be by resignation, informing the Chairman and Secretary. No member of the Society may be excluded on racial, political or religious grounds.
@@ -53,8 +53,8 @@ The supreme body of the Society is the General Meeting, convened during the Euro
 
 The General Meeting is attended by all ESFS members present at the Eurocon (but up to two votes are allowed for each European country, as defined above) and has the following prerogatives:
 
-a) to assess the activity of the Committee, on the basis of a report submitted by the Chair or by the elected Vice-Chair;  
-b) to elect the committee Officers;  
+a) to assess the activity of the Board, on the basis of a report submitted by the Board;  
+b) to elect the Board members;  
 c) to decide the places and dates of the Eurocons and Euroconferences;  
 d) to discuss and decide on other matters related to the Society's activity.
 
@@ -62,91 +62,23 @@ Members may attend and speak, they may also take part in the Eurocon and Eurocon
 
 Non-European observers may attend and speak, but they may not vote.
 
-### 10. Extraordinary General Meeting
-At the request of one third of the Society membership, or of two thirds of its committee or board members, the Chair shall convene the Extraordinary General Meeting.
-
-### 11. Bodies of the ESFS
-
-#### A. The Board
-The Board coordinates the work of the committee members and maintains contact between General Meetings.
-
-The Board is made up of:
-* Chair
-* Elected Vice-Chair
-* Nominated Vice-Chairs
-* Secretary
-* Treasurer
-* Awards Administrator
-
-#### B. The Committee
-The European Committee is the leading body of the ESFS and assembles at the Eurocons and Euroconferences. At the request of one third of its members it shall be convened by the chairman in an Extraordinary Meeting
-
-The Committee is made up of:
-* Chair
-* Elected Vice-Chair
-* Nominated Vice-Chairs (delegated by the Organizing Committees of the following Eurocons)
-* Secretary
-* Treasurer
-* Awards Administrator
-* Former Committee Officers
-* Honorary Members of ESFS
-* National Delegates for each country.
-
-The term of office for all the elected Officers (Chair, Vice-Chair, Secretary, Treasurer, Awards Administrator) shall be three years, after which they may be re-elected for subsequent terms.
-
-Former Committee Officers and the Honorary Members remain on the Committee for their lifetime, having voice but no vote.
-
-National Delegates are elected according to local customs and should be normally resident in the country they represent.
-
-If a position falls vacant, the Committee may nominate a provisional substitute until the next General Meeting.
-
-### 12. Committee & Board Tasks
-The Committee and Board have the following prerogatives:
-
-a) to ensure the progress of the Society between two General Meetings,  
-b) to prepare the report submitted to the General Meeting,  
-c) to arrange for the places and the dates of the Eurocons and Euroconferences,  
-d) to determine the utilisation of the Society's resources,  
-e) to debate and decide on all other issues related to the Society's activity.
-
-### 13. Job Descriptions
-The Officers and members of the Committee shall have the following competence:
-
-#### The Chair:
-* ensures a permanent relation between the Officers and Members of the Committee;
-* represents the Society in its relations with the Organizing Committees of the Eurocons and Euroconferences (mainly through the Nominated Vice-Chair), with other national and international organizations;
-* convenes the General meeting and the Committee (cf Articles 8 and 10);
-* advises on the programmes of the Eurocons and Euroconferences at least two months ahead of their finalization;
-* in cases of litigation of an Organizing Committee, he consults the other Officers and Members of the Committee - if the decision cannot be postponed, he will submit it to the Committee subsequently;
-* chairs the debates of the Committee and sessions of the General Meeting;
-* together with the Nominated Vice-Chair opens the Eurocons and Euroconferences in the name of the Society;
-* presents the Eurocon Awards.
-
-#### The Elected Vice-Chair:
-* Shall have the same competence as the Chair, acting in their absence;
-* they shall assist the Chair in performing his statutory duties.
-
-#### The Nominated Vice-Chair:
-* Shall ensure contact between the Organizing Committee of the forthcoming Eurocon and the ESFS Committee's Officers by supplying progress reports as well as details of the programme and other pertinent matters.
-
-#### The Secretary:
-* maintains permanent relations with the National Delegates and other Committee Members;
-* keeps the archives of ESFS;
-* takes the minutes of ESFS General meeting and Committee sessions.
-
-#### The Treasurer:
-* ensures the financial administration of the ESFS resources;
-* they shall have power to sign the financial documents, alongside the Chair or the Elected Vice-Chair.
-
-#### The Awards Administrator:
-* Administers the European Science Fiction Awards.
+### X. The Board
+  1. The Board coordinates the work of the Society and maintains contact between Eurocons.
+  2. The members of the Board have the following tasks and prerogatives:
+    1. To ensure the progress of the Society between Eurocons;
+    2. To convene and chair the General Meeting, as well as keeping and publishing its minutes;
+    3. To prepare a report on the Society's activites to be submitted to the General Meeting;
+    4. To coordinate the activites of the Delegates;
+    5. Assisted by each host Eurocon, administer the Eurocon selection, European Science Fiction Awards, and General Meeting;
+    6. To debate and decide on other issues related to the Society's activities.
+    7. At the request of 20 or more Delegates, the Board must call together an electronically conducted Extraordinary General Meeting, with the same prerogatives as the annual General Meeting, in no less than two weeks and no more than six weeks of having received the request.
+  3. The Board shall consist of five elected members, each serving three-year terms and elected by the General Meeting, as well as representatives of current and future Eurocons.
+  4. If more than one elected Board position falls vacant between General Meetings, the Delegates may elect new members to serve on the Board until the following General Meeting.
+  5. After each General Meeting, members of the Board may decide how to distribute the Board's tasks among themselves.
 
 #### The Society's resources shall be employed:
 * to publish the ESFS Newsletter and the ESFS Directory;
 * to administer the European Science Fiction Awards;
-* in exceptional circumstances, to pay the administrative costs, hotel and travel expenses of the committee Officers travelling in the interests of the Society. Such expenses must be approved by the committee at the next General Meeting.
-
-At each meeting of the Committee, the Treasurer presents the financial situation of the Society; Between the meetings they shall do the same at the request of the Chair or the Elected Vice-Chair.
 
 The National Delegates (two for each European country, as defined above) represent the interests of the professionals and fans of their countries. They:
 * Periodically convey to the Chair and the Secretary information of the most important local events (conventions, awards, books, magazines, fanzines) and on the admission of new members, etc.,
