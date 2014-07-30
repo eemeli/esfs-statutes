@@ -24,7 +24,7 @@ ESFS, 64 Richborne Terrace, London, SW8 1AX, United Kingdom (contact_esfs@esfs.i
 It may be transferred elsewhere by a decision of the Board.
 
 ### 4. Joining the Society
-To join the society it shall suffice to subscribe to this Constitution and to inform the National Delegate who will notify the ESFS Secretary, or to notify the ESFS Secretary directly. For special services rendered to European SF the General Meeting may award the title of ESFS Honorary Member.
+To join the society it shall suffice to subscribe to this Constitution and to inform the Delegate who will notify the ESFS Secretary, or to notify the ESFS Secretary directly. For special services rendered to European SF the General Meeting may award the title of ESFS Honorary Member.
 
 ### 5. Leaving the Society
 Cessation of membership may only be by resignation, informing the Chairman and Secretary. No member of the Society may be excluded on racial, political or religious grounds.
@@ -43,19 +43,18 @@ The Society resources shall include: -dues -grants and gifts received.
     5. To be included on the ballot as a listed candidate, an organising committee must present their candidature to the Society at least six weeks prior to the selection, and be approved by the Delegates.
     6. In case of a tie, or a write-in candidate winning the vote, the decision on the Eurocon selection is left to the General Meeting, which should take into account the results of the vote in its considerations.
 
-### 9. General Meeting
-The supreme body of the Society is the General Meeting, convened during the Eurocon.
-
-The General Meeting is attended by all ESFS members present at the Eurocon (but up to two votes are allowed for each European country, as defined above) and has the following prerogatives:
-
-a) to assess the activity of the Board, on the basis of a report submitted by the Board;  
-b) to elect the Board members;  
-c) to decide the places and dates of the Eurocons;  
-d) to discuss and decide on other matters related to the Society's activity.
-
-Members may attend and speak, they may also take part in the Eurocon votes, and in general advisory votes.
-
-Non-European observers may attend and speak, but they may not vote.
+### X. Delegates
+  1. The Delegates are the Society's representatives in their respective countries and fandoms.
+  2. National Delegates represent the interests of the fans and professionals of a conutry, with each country granted at most two such Delegates.
+  3. International fannish groups with active members from at least three European countries may also issue a single Delegate to represent them within the Society.
+  4. The Delegates are tasked to:
+    1. Distribute information about the Society and other European SF activities within their countries and fandoms;
+    2. Share with other Delegates information about relevant activites within their countries and fandoms;
+    3. Collate nominations for the European Science Fiction Awards and send them to the Society's Board.
+    4. As a body, approve Eurocon candidates before their selection by a simple majority vote that must be conducted electronically at most six weeks and at least four weeks before each Eurocon.
+  5. Delegates may be selected according to local customs, provided that the selection process is fair, open and democratic.
+  6. Changes to a country's or a fandom's Delegates need to be conveyed to the Society's Board at least six weeks in advance of each Eurocon.
+  7. In cases where a Delegate's credentials are disputed, decisions on their acceptance are made by the body of Delegates as a whole, excluding the disputed Delegate or Delegates.
 
 ### X. The Board
   1. The Board coordinates the work of the Society and maintains contact between Eurocons.
@@ -75,17 +74,23 @@ Non-European observers may attend and speak, but they may not vote.
 * to publish the ESFS Newsletter and the ESFS Directory;
 * to administer the European Science Fiction Awards;
 
-The National Delegates (two for each European country, as defined above) represent the interests of the professionals and fans of their countries. They:
-* Periodically convey to the Chair and the Secretary information of the most important local events (conventions, awards, books, magazines, fanzines) and on the admission of new members, etc.,
-* Support the Organizing Committees of the Eurocons when these events occur in their countries.
-* As a body, approve Eurocon candidates before their selection by a simple majority vote that must be conducted electronically at most six weeks and at least four weeks before each Eurocon.
+At each meeting of the Committee, the Treasurer presents the financial situation of the Society; Between the meetings they shall do the same at the request of the Chair or the Elected Vice-Chair.
 
-### 14. Decisions
-In all leading bodies of the ESFS decisions shall be taken by a simple majority vote. This includes any Statute amendment, addition or deletion - hereinafter "Statute Change". Postal and proxy voting is allowed only regarding issues announced in advance, by means of a definite written and signed statement.
-
-Any Statute Change passed at any one Eurocon General Meeting does not take immediate effect, but must be ratified by the General Meeting at the next Eurocon. If ratified as it stands, it takes immediate effect. If amended, that amendment must not enlarge/enhance the original Statute Change, otherwise the Statute Change must be resubmitted.
-
-If a Statute Change needs to come into immediate effect, it may be voted on for a second time at that General Meeting. On the second occasion a 75% majority is necessary. If a 75% majority is not reached, the Statute Change may be ratified in the normal way at the next Eurocon.
+### X. General Meeting
+  1. At each Eurocon, the Society shall organise a General Meeting of its Board and Delegates, which must be open to all attending members of the Society.
+  2. The General Meeting must have at least one session scheduled after the close of the Eurocon selection vote.
+  3. The General Meeting has the following prerogatives:
+    1. to assess the activity of the Society, on the basis of a report submitted by the Board;
+    2. to elect members for the Society's Board;
+    3. to announce the results of the Eurocon selection vote;
+    4. to discuss and decide on other matters related to the Society's activities.
+  4. The quorum for the meeting shall be twelve Delegates of the Society physically present, and it shall grant voting rights only to members of the Board and Delegates.
+  5. Postal and proxy voting is allowed only regarding issues announced at least four weeks in advance, by means of a definite written and signed statement.
+  6. Unless otherwise specified, all votes of the General Meeting require a simple majority of cast votes to pass.
+  7. Constitutional Changes:
+    1. Proposed changes to this Constitution must be presented to the Board for inclusion in the General Meeting's agenda at least four weeks in advance.
+    2. If accepted by the General Meeting, any such change must be ratified by the following General Meeting before coming into force at the end of its hosting Eurocon; this rule may be suspended in part or entirely by a vote requiring a 75% supermajority of cast votes.
+    3. Any amendment to a Constitutional change made after its initial passing but before ratification must not enlarge the scope of the change.
 
 ### 15. Languages
 The official languages of the ESFS are English, French, German and Russian.
@@ -106,7 +111,7 @@ The European Science Fiction Society presents, at the European Conventions, awar
 5. Best Magazine
 6. Best Translator
 
-These Awards are granted just once by the European Committee by secret ballot from the nominations submitted by the National Delegates. The nominations must reach the Chair and Secretary at least one month before the opening of the Eurocon.
+These Awards are granted just once by the European Committee by secret ballot from the nominations submitted by the Delegates. The nominations must reach the Chair and Secretary at least one month before the opening of the Eurocon.
 
 Nominations shall normally be made for a country, by delegates of that country. When out-of-country nominations are made, they shall be subject to a veto by delegates from the country concerned.
 
@@ -129,7 +134,7 @@ These Awards are granted by vote of all European participants in the European Co
 The Awards are plaques or other symbolic objects and are presented by the Chair or another Committee Officer appointed by the Chair.
 
 ### IV. Encouragement Awards:
-These Awards are granted according to the suggestions from the National Delegates to a young writer or artist from each European Country. The suggestions must arrive to the Chair and Secretary at least one month before the Eurocon.
+These Awards are granted according to the suggestions from the Delegates to a young writer or artist from each European Country. The suggestions must arrive to the Chair and Secretary at least one month before the Eurocon.
 
 Appropriate diplomas are presented by the Chair or another Committee Officer appointed by the Chair.
 
