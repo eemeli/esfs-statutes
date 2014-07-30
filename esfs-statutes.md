@@ -45,9 +45,6 @@ The Society shall organize a European Science Fiction Convention (Eurocon) withi
 * Eurocon campaign materials may include leaflets, posters, fanzines, badges, stickers, minor decorative display items and other informative material on the prospective convention and the host country, but a 'no treating' rule must be observed. In effect this means no bid parties.
 * Any bid committee breaking this rule may have its candidature disqualified by a secret ballot of the delegates at the General Meeting. A disqualification vote may be proposed by any one delegate, and disqualification shall occur if 35% or more of the delegates approve it.
 
-### 8. Euroconferences
-On the proposal of a National Delegate, or any reliable individual or organization, European Science Fiction Conferences (Euroconferences) may be organized, though not in the same period as the Eurocon. Euroconference votes may take place by email.
-
 ### 9. General Meeting
 The supreme body of the Society is the General Meeting, convened during the Eurocon.
 
@@ -55,10 +52,10 @@ The General Meeting is attended by all ESFS members present at the Eurocon (but 
 
 a) to assess the activity of the Committee, on the basis of a report submitted by the Chair or by the elected Vice-Chair;  
 b) to elect the committee Officers;  
-c) to decide the places and dates of the Eurocons and Euroconferences;  
+c) to decide the places and dates of the Eurocons;  
 d) to discuss and decide on other matters related to the Society's activity.
 
-Members may attend and speak, they may also take part in the Eurocon and Euroconference votes, and in general advisory votes.
+Members may attend and speak, they may also take part in the Eurocon votes, and in general advisory votes.
 
 Non-European observers may attend and speak, but they may not vote.
 
@@ -79,7 +76,7 @@ The Board is made up of:
 * Awards Administrator
 
 #### B. The Committee
-The European Committee is the leading body of the ESFS and assembles at the Eurocons and Euroconferences. At the request of one third of its members it shall be convened by the chairman in an Extraordinary Meeting
+The European Committee is the leading body of the ESFS and assembles at the Eurocons. At the request of one third of its members it shall be convened by the chairman in an Extraordinary Meeting
 
 The Committee is made up of:
 * Chair
@@ -105,7 +102,7 @@ The Committee and Board have the following prerogatives:
 
 a) to ensure the progress of the Society between two General Meetings,  
 b) to prepare the report submitted to the General Meeting,  
-c) to arrange for the places and the dates of the Eurocons and Euroconferences,  
+c) to arrange for the places and the dates of the Eurocons,  
 d) to determine the utilisation of the Society's resources,  
 e) to debate and decide on all other issues related to the Society's activity.
 
@@ -114,12 +111,12 @@ The Officers and members of the Committee shall have the following competence:
 
 #### The Chair:
 * ensures a permanent relation between the Officers and Members of the Committee;
-* represents the Society in its relations with the Organizing Committees of the Eurocons and Euroconferences (mainly through the Nominated Vice-Chair), with other national and international organizations;
+* represents the Society in its relations with the Organizing Committees of the Eurocons (mainly through the Nominated Vice-Chair), with other national and international organizations;
 * convenes the General meeting and the Committee (cf Articles 8 and 10);
-* advises on the programmes of the Eurocons and Euroconferences at least two months ahead of their finalization;
+* advises on the programmes of the Eurocons at least two months ahead of their finalization;
 * in cases of litigation of an Organizing Committee, he consults the other Officers and Members of the Committee - if the decision cannot be postponed, he will submit it to the Committee subsequently;
 * chairs the debates of the Committee and sessions of the General Meeting;
-* together with the Nominated Vice-Chair opens the Eurocons and Euroconferences in the name of the Society;
+* together with the Nominated Vice-Chair opens the Eurocons in the name of the Society;
 * presents the Eurocon Awards.
 
 #### The Elected Vice-Chair:
@@ -150,7 +147,7 @@ At each meeting of the Committee, the Treasurer presents the financial situation
 
 The National Delegates (two for each country) as Per Appendix 1 represent the interests of the professionals and fans of their countries. They:
 * Periodically convey to the Chair and the Secretary information of the most important local events (conventions, awards, books, magazines, fanzines) and on the admission of new members, etc.,
-* Support the Organizing Committees of the Eurocons and Euroconferences when these events occur in their countries.
+* Support the Organizing Committees of the Eurocons when these events occur in their countries.
 
 ### 14. Decisions
 In all leading bodies of the ESFS decisions shall be taken by a simple majority vote. This includes any Statute amendment, addition or deletion - hereinafter "Statute Change". Postal and proxy voting is allowed only regarding issues announced in advance, by means of a definite written and signed statement.
