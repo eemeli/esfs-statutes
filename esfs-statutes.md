@@ -45,9 +45,6 @@ The Society shall organize a European Science Fiction Convention (Eurocon) withi
 * Eurocon campaign materials may include leaflets, posters, fanzines, badges, stickers, minor decorative display items and other informative material on the prospective convention and the host country, but a 'no treating' rule must be observed. In effect this means no bid parties.
 * Any bid committee breaking this rule may have its candidature disqualified by a secret ballot of the delegates at the General Meeting. A disqualification vote may be proposed by any one delegate, and disqualification shall occur if 35% or more of the delegates approve it.
 
-### 8. Euroconferences
-On the proposal of a National Delegate, or any reliable individual or organization, European Science Fiction Conferences (Euroconferences) may be organized, though not in the same period as the Eurocon. Euroconference votes may take place by email.
-
 ### 9. General Meeting
 The supreme body of the Society is the General Meeting, convened during the Eurocon.
 
@@ -55,10 +52,10 @@ The General Meeting is attended by all ESFS members present at the Eurocon (but 
 
 a) to assess the activity of the Board, on the basis of a report submitted by the Board;  
 b) to elect the Board members;  
-c) to decide the places and dates of the Eurocons and Euroconferences;  
+c) to decide the places and dates of the Eurocons;  
 d) to discuss and decide on other matters related to the Society's activity.
 
-Members may attend and speak, they may also take part in the Eurocon and Euroconference votes, and in general advisory votes.
+Members may attend and speak, they may also take part in the Eurocon votes, and in general advisory votes.
 
 Non-European observers may attend and speak, but they may not vote.
 
@@ -82,7 +79,7 @@ Non-European observers may attend and speak, but they may not vote.
 
 The National Delegates (two for each European country, as defined above) represent the interests of the professionals and fans of their countries. They:
 * Periodically convey to the Chair and the Secretary information of the most important local events (conventions, awards, books, magazines, fanzines) and on the admission of new members, etc.,
-* Support the Organizing Committees of the Eurocons and Euroconferences when these events occur in their countries.
+* Support the Organizing Committees of the Eurocons when these events occur in their countries.
 
 ### 14. Decisions
 In all leading bodies of the ESFS decisions shall be taken by a simple majority vote. This includes any Statute amendment, addition or deletion - hereinafter "Statute Change". Postal and proxy voting is allowed only regarding issues announced in advance, by means of a definite written and signed statement.
