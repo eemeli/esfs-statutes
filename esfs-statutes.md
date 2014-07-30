@@ -6,31 +6,21 @@ Comprising:
 * The Guidance Notes
 
 
-## The Statutes
+## The Statutes of the European Science Fiction Society
 
 ### 1. The Society
-The European Science Fiction Society (ESFS) was founded in 1972, at the first European Science Fiction Convention in Trieste.
+  1. The European Science Fiction Society (ESFS, hereinafter referred to as the Society) was founded in 1972, at the first European Science Fiction Convention in Trieste.
+  2. The official language of the Society is English.
+  3. The goals of the Society are:
+    1. to find ways and means of establishing contacts between the science fiction and fantasy (SF) professionals and fans;
+    2. to ensure better mutual knowledge of SF literature and arts and of fandom activity within Europe;
+    3. to promote the recognition of European SF in the rest of the world.
+  4. To reach these goals, the Society administers the organisation of Eurocon, an annual SF convention, and chooses the recipients of the European Science Fiction Awards.
 
-### 2. Goals
-The Goals of the Society are:
-
-a) to find ways and means of establishing contacts between the Science Fiction (SF) professionals and fans;  
-b) to ensure better mutual knowledge of SF literature and arts and of fandom activity in the European countries;  
-c) to propose the cognition of European SF in the rest of the world.
-
-### 3. Registered Office
-Its registered office shall be for the time being at:  
-ESFS, 64 Richborne Terrace, London, SW8 1AX, United Kingdom (contact_esfs@esfs.info).  
-It may be transferred elsewhere by a decision of the Board.
-
-### 4. Joining the Society
-To join the society it shall suffice to subscribe to this Constitution and to inform the Delegate who will notify the ESFS Secretary, or to notify the ESFS Secretary directly. For special services rendered to European SF the General Meeting may award the title of ESFS Honorary Member.
-
-### 5. Leaving the Society
-Cessation of membership may only be by resignation, informing the Chairman and Secretary. No member of the Society may be excluded on racial, political or religious grounds.
-
-### 6. Resources
-The Society resources shall include: -dues -grants and gifts received.
+### 2. Society Membership
+  1. The membership of the Society is defined as the inclusion of the members of current and future Eurocons, the Board, and the Delegates.
+  2. No member of the Society may be excluded on racial, political or religious grounds.
+  3. For special services rendered to European SF the General Meeting may award the title of ESFS Honorary Member.
 
 ### X. Eurocons
   1. The Society shall administer the selection of the location and organising committee for the annual European Science Fiction Convention (Eurocon).
@@ -42,6 +32,7 @@ The Society resources shall include: -dues -grants and gifts received.
     4. The voting ballot shall list the eligible Eurocon candidates, as well as giving space for a write-in candidate.
     5. To be included on the ballot as a listed candidate, an organising committee must present their candidature to the Society at least six weeks prior to the selection, and be approved by the Delegates.
     6. In case of a tie, or a write-in candidate winning the vote, the decision on the Eurocon selection is left to the General Meeting, which should take into account the results of the vote in its considerations.
+  4. Each selected Eurocon shall be responsible for the financial costs of maintaining the Society's online presence, as well as the costs of administering the Eurocon selection, European Science Fiction Awards, and General Meeting hosted by said Eurocon.
 
 ### X. Delegates
   1. The Delegates are the Society's representatives in their respective countries and fandoms.
@@ -50,7 +41,7 @@ The Society resources shall include: -dues -grants and gifts received.
   4. The Delegates are tasked to:
     1. Distribute information about the Society and other European SF activities within their countries and fandoms;
     2. Share with other Delegates information about relevant activites within their countries and fandoms;
-    3. Collate nominations for the European Science Fiction Awards and send them to the Society's Board.
+    3. Collate nominations for the European Science Fiction Awards and send them to the Society's Board;
     4. As a body, approve Eurocon candidates before their selection by a simple majority vote that must be conducted electronically at most six weeks and at least four weeks before each Eurocon.
   5. Delegates may be selected according to local customs, provided that the selection process is fair, open and democratic.
   6. Changes to a country's or a fandom's Delegates need to be conveyed to the Society's Board at least six weeks in advance of each Eurocon.
@@ -70,12 +61,6 @@ The Society resources shall include: -dues -grants and gifts received.
   4. If more than one elected Board position falls vacant between General Meetings, the Delegates may elect new members to serve on the Board until the following General Meeting.
   5. After each General Meeting, members of the Board may decide how to distribute the Board's tasks among themselves.
 
-#### The Society's resources shall be employed:
-* to publish the ESFS Newsletter and the ESFS Directory;
-* to administer the European Science Fiction Awards;
-
-At each meeting of the Committee, the Treasurer presents the financial situation of the Society; Between the meetings they shall do the same at the request of the Chair or the Elected Vice-Chair.
-
 ### X. General Meeting
   1. At each Eurocon, the Society shall organise a General Meeting of its Board and Delegates, which must be open to all attending members of the Society.
   2. The General Meeting must have at least one session scheduled after the close of the Eurocon selection vote.
@@ -91,12 +76,6 @@ At each meeting of the Committee, the Treasurer presents the financial situation
     1. Proposed changes to this Constitution must be presented to the Board for inclusion in the General Meeting's agenda at least four weeks in advance.
     2. If accepted by the General Meeting, any such change must be ratified by the following General Meeting before coming into force at the end of its hosting Eurocon; this rule may be suspended in part or entirely by a vote requiring a 75% supermajority of cast votes.
     3. Any amendment to a Constitutional change made after its initial passing but before ratification must not enlarge the scope of the change.
-
-### 15. Languages
-The official languages of the ESFS are English, French, German and Russian.
-
-### 16. The Emblem
-The logo/emblem of the ESFS is a black stylised map of Europe outlined in white, above two shaking hands. writing may or may not surround the emblem. This logo/emblem may be used as the center piece on a yellow flag.
 
 
 ## Rules of the European Science Fiction Awards
