@@ -32,18 +32,16 @@ Cessation of membership may only be by resignation, informing the Chairman and S
 ### 6. Resources
 The Society resources shall include: -dues -grants and gifts received.
 
-### 7. Eurocons
-The Society shall organize a European Science Fiction Convention (Eurocon) within the territory of a European country (see Appendix 1) at least every two years.
-
-#### Voting
-* The vote for the Eurocon shall comprise delegate votes, two for each country, and ESFS member votes on a one person-one vote basis.
-* The vote shall take place by secret ballot, and the voting papers for delegates and members shall be differently coloured.
-* Votes shall be counted in aggregate, but the winner shall attain at least a threshold of 35% of the votes cast by both members and delegates.
-* In the event of the candidate with the most votes failing to reach this threshold, but coming within 5% of it, another vote may be held at least 30 minutes later between the two highest contenders. If a second vote fails to reach this threshold, or a second vote does not take place, the decision must be postponed to the next Eurocon, or to an extraordinary General Meeting.
-
-#### Bidding
-* Eurocon campaign materials may include leaflets, posters, fanzines, badges, stickers, minor decorative display items and other informative material on the prospective convention and the host country, but a 'no treating' rule must be observed. In effect this means no bid parties.
-* Any bid committee breaking this rule may have its candidature disqualified by a secret ballot of the delegates at the General Meeting. A disqualification vote may be proposed by any one delegate, and disqualification shall occur if 35% or more of the delegates approve it.
+### X. Eurocons
+  1. The Society shall administer the selection of the location and organising committee for the annual European Science Fiction Convention (Eurocon).
+  2. Eurocons shall be held within Europe, as defined by the United Nations geoscheme.
+  3. Eurocon selection:
+    1. At each Eurocon, the Society shall organise a vote to select the location and organising committee of the Eurocon to be held two years from the current date.
+    2. The Eurocon selection vote shall be a simple majority vote by secret ballot amongst the Society's members.
+    3. Provision must be made by the Society for the non-attending members of the Society to cast their votes either via post or electronically.
+    4. The voting ballot shall list the eligible Eurocon candidates, as well as giving space for a write-in candidate.
+    5. To be included on the ballot as a listed candidate, an organising committee must present their candidature to the Society at least six weeks prior to the selection, and be approved by the Delegates.
+    6. In case of a tie, or a write-in candidate winning the vote, the decision on the Eurocon selection is left to the General Meeting, which should take into account the results of the vote in its considerations.
 
 ### 8. Euroconferences
 On the proposal of a National Delegate, or any reliable individual or organization, European Science Fiction Conferences (Euroconferences) may be organized, though not in the same period as the Eurocon. Euroconference votes may take place by email.
@@ -151,6 +149,7 @@ At each meeting of the Committee, the Treasurer presents the financial situation
 The National Delegates (two for each country) as Per Appendix 1 represent the interests of the professionals and fans of their countries. They:
 * Periodically convey to the Chair and the Secretary information of the most important local events (conventions, awards, books, magazines, fanzines) and on the admission of new members, etc.,
 * Support the Organizing Committees of the Eurocons and Euroconferences when these events occur in their countries.
+* As a body, approve Eurocon candidates before their selection by a simple majority vote that must be conducted electronically at most six weeks and at least four weeks before each Eurocon.
 
 ### 14. Decisions
 In all leading bodies of the ESFS decisions shall be taken by a simple majority vote. This includes any Statute amendment, addition or deletion - hereinafter "Statute Change". Postal and proxy voting is allowed only regarding issues announced in advance, by means of a definite written and signed statement.
